@@ -1,0 +1,1 @@
+export const ELECTRIC_IMAGE = require('../../../images/slyder_status_screen.png')
